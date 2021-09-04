@@ -28,7 +28,7 @@ _Los usuarios duran como minimo 30 dias si no se utilizan hay que volver a crear
 ## Autores ✒️
 
 
-* **Diego Markiewicz** - *Trabajo Inicial* - [villanuevand](https://github.com/dieghard)
+* **Diego Markiewicz** - *Trabajo Inicial* - [dieghard](https://github.com/dieghard)
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
